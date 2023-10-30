@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 8001
 
 # Define the command to run your Node.js application
-CMD ["node", "index.js"]
+CMD ["node", "app.js"]
